@@ -1,5 +1,4 @@
-// Path to .jar Files: MAEProject/src/KostasPackage.
-// The command that reads the file in excelReader.java (Line 18) will need modification.
+The command that reads the file in excelReader.java (Line 18) will need modification.
    
 
 ### Country.java:
